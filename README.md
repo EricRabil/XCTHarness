@@ -1,3 +1,2 @@
-# MyLibrary
-
-A description of this package.
+# XCTHarness
+Bootstrap xctest manually
